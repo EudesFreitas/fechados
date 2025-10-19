@@ -1,0 +1,26 @@
+@charset "UTF-8";
+body {
+        background-image: linear-gradient(to bottom, #cc1a1a 5%, #129d05, #0c0b0b, #d6f236);
+        background-attachment: fixed;
+        margin: 0px 20px;
+        }
+ p {
+    color: white;
+ }  
+ .titulo {
+            text-shadow: 2px 2px 3px rgb(65, 57, 57);
+            color: #d6f236;
+        }    
+a {
+    text-decoration: none;
+    color: white;
+    gap: ;
+} 
+a:hover {
+    color: #ff9800;
+    transform: translateY(-3px); /* sobe 3px */
+    }
+footer {
+    text-align: center;
+    font-size: 11px;
+}
